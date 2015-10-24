@@ -1,0 +1,6 @@
+c:\users\bubu\documents\visual studio 2015\Projects\base64_CSharp\base64_CSharp\bin\Debug\base64_CSharp.exe.config
+c:\users\bubu\documents\visual studio 2015\Projects\base64_CSharp\base64_CSharp\obj\Debug\base64_CSharp.csprojResolveAssemblyReference.cache
+c:\users\bubu\documents\visual studio 2015\Projects\base64_CSharp\base64_CSharp\bin\Debug\base64_CSharp.exe
+c:\users\bubu\documents\visual studio 2015\Projects\base64_CSharp\base64_CSharp\bin\Debug\base64_CSharp.pdb
+c:\users\bubu\documents\visual studio 2015\Projects\base64_CSharp\base64_CSharp\obj\Debug\base64_CSharp.exe
+c:\users\bubu\documents\visual studio 2015\Projects\base64_CSharp\base64_CSharp\obj\Debug\base64_CSharp.pdb
